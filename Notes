@@ -23,3 +23,20 @@ git log
     - to know how many changes you have done till now
 
 git checkout <commit hashcode/branch name>
+    - git checkout refers to the action of swaping between different 
+    repository branches/files/commits. It helps in switching between 
+    different branches that have been created by git branch. 
+    It can be understood as the method of selecting the current line
+     of development one has to work on.
+
+Branch
+    - In Git, branches are a part of your everyday development process. 
+    Git branches are effectively a pointer to a snapshot of your changes. 
+    When you want to add a new feature or fix a bug—no matter how big or 
+    how small—you spawn a new branch to encapsulate your changes.
+
+git branch <branch-name>
+    - to create a new branch
+
+git merge <branch-name>
+    - to merge different branches
