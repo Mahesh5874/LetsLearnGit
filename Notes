@@ -1,0 +1,23 @@
+Git commands
+
+git init
+    - Initialized empty git repo
+
+git status
+    - get the status of git like any changes, on which branch it is
+
+Staging area
+    - place where git holds your updates before the final commit
+    - git add <filename> add your file to staging area
+
+git add
+    - To add your file to staging area
+    - git add . to add your complete directory to staging area
+
+git commit
+    - to commit the changes to repository
+    - commit basically means to update your latest changes
+    - "-m" means a message for the git
+
+git log
+    - to know how many changes you have done till now
